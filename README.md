@@ -3,7 +3,7 @@
 
 - 🔭 Actualmente estoy aprendiendo **Html,CSS y Javascript**
 
-- 🌱 Me interesa aprender **Angular.js**
+- 🌱 Me interesa aprender!!
 
 - 👨‍💻 Todos mis proyectos están aqui [https://github.com/javierquinterocl](https://github.com/javierquinterocl)
 
