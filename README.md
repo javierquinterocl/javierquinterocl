@@ -9,7 +9,7 @@
 
 - 📫Mi correo es **jaquinterocl@ufpso.edu.co**
 
-- ⚡ Quisiera lograr mi pagina Web **Compudragon**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
