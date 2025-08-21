@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, Soy Javier Quintero</h1>
 <h3 align="center">Soy estudiante de Ingeniería de Sistemas</h3>
 
-- 🔭 Actualmente estoy aprendiendo **Html,CSS y Javascript**
+- 🔭 Actualmente estoy aprendiendo **Spring Boot, MongoDB, React, Flutter y Dart**
 
-- 🌱 Me interesa aprender!!
+- 🌱 Dispuesto a aprender!!
 
 - 👨‍💻 Todos mis proyectos están aqui [https://github.com/javierquinterocl](https://github.com/javierquinterocl)
 
