@@ -1,13 +1,8 @@
-<h1 align="center">Hola 👋, Soy Javier Quintero</h1>
-<h3 align="center">Soy estudiante de Ingeniería de Sistemas</h3>
+<h1 align="center">Javier Quintero</h1>
+<h3 align="center">Estudiante de Ingeniería de Sistemas</h3>
 
-- 🔭 Actualmente estoy aprendiendo **Spring Boot, MongoDB, React, Flutter y Dart**
 
-- 🌱 Dispuesto a aprender!!
-
-- 👨‍💻 Todos mis proyectos están aqui [https://github.com/javierquinterocl](https://github.com/javierquinterocl)
-
-- 📫Mi correo es **jaquinterocl@ufpso.edu.co**
+- Correo **jaquinterocl@ufpso.edu.co**
 
 
 
